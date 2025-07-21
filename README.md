@@ -1,1 +1,2 @@
 # Toomoss_Secondary_development
+通过CAN协议和UDS诊断协议，对toomoss进行二次开发，能够实现对车载ECU固件的OTA刷写升级和诊断
